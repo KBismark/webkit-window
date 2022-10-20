@@ -1,0 +1,27 @@
+{
+  "name": "webkit-window",
+  "version": "1.0.0",
+  "description": "A virtual browser window object on the server. Webkit-Window allows you to run your web app on the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBismark/webkit-window.git"
+  },
+  "keywords": [
+    "nodejs-browser",
+    "nodejs-window",
+    "nodejs-document",
+    "window",
+    "document",
+    "browser"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KBismark/webkit-window/issues"
+  },
+  "homepage": "https://github.com/KBismark/webkit-window#readme"
+}
